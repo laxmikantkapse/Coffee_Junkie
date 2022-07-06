@@ -17,3 +17,5 @@ Hover effects are used to indicate clickable objects and a modal is displayed us
 
 Description:
 Responsive HTML, CSS, JavaScript based project.
+
+Demo:  https://laxmikantkapse.github.io/Coffee_Junkie/
